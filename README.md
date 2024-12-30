@@ -1,7 +1,3 @@
-Here's a **short and concise README** for your **Live Criminal Face Detection System** project:
-
----
-
 # Live Criminal Face Detection System
 
 This project aims to develop a real-time criminal face detection system using Python. The system leverages OpenCV's Haar Cascade algorithm to detect faces in video feeds from a camera. The project is divided into three main modules:
@@ -27,5 +23,3 @@ The final module implements real-time face detection. Using the trained model an
 - **PIL (Pillow)**
 
 ---
-
-This provides a clear, brief overview of your project. Let me know if you'd like any changes! 😊
